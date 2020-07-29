@@ -1,2 +1,1 @@
-# Language-Models
-Summer Project under Programming Club, IIT Kanpur
+# Intro-to-Language-Models
